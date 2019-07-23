@@ -9,6 +9,5 @@ class ChattyStudent < Student
     10.times do print super
     end
   end 
-
   
 end 
